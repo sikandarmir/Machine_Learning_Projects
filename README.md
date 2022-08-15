@@ -11,6 +11,6 @@ Machine learning Projects List
 9) K-Nearest Neighbors --------> Classification of Telecommunication Services
 10) Gradient Boosting --------->Breast Cancer Wisconsin (Diagnostic)
 
-11)Decision Trees-------> Classification of drugs based on mechanism of action using machine learning technique
+        11)Decision Trees-------> Classification of drugs based on mechanism of action using machine learning technique
 
-12)AdaBoost Algorithm --------> heart disease prediction
+        12)AdaBoost Algorithm --------> heart disease prediction
